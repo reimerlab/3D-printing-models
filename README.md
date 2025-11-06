@@ -19,4 +19,6 @@ With 20mm working distance, it is pretty challegening to do proper light-shiledl
 The gap at the top edge is to accomendate the setscrew. There are about 3 mm gap between focal plane and the tip of the cone. Reducing the tip if you need more space between.
 
 ---
+**[MicroInjector](https://github.com/reimerlab/microInjector)**
+---
 More to come!
